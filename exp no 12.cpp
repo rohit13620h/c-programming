@@ -1,0 +1,1 @@
+12.WAPtofindlengthofagivenstringincludingandexcludingspaces using pointers.
